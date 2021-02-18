@@ -1,0 +1,8 @@
+site_name: "Oba-docs"
+site_description: "Documentation for Open Banking Accelerator"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
