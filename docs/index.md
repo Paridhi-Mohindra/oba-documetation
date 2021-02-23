@@ -15,7 +15,7 @@ We provide a set of tools out of the box which you can plug and play to get star
 
 
 ### OBA Architecture
-![](../images/OBA_Architecture.png)
+![](https://github.com/Paridhi-Mohindra/oba-documetation/blob/master/images/OBA_Architecture.png)
 
 ### Usage of templates
 To use any tempalte, follow the following steps:
